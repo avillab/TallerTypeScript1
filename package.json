@@ -1,0 +1,14 @@
+{
+  "name": "tallertypescript1",
+  "version": "1.0.0",
+  "description": "Alejandro Villa Botero-201823055",
+  "main": "index.js",
+  "scripts": {
+    "tsc":"tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
